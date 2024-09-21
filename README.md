@@ -1,1 +1,0 @@
-When you type something, you're able to change how the text could look like by pressing buttons. You could make the text bigger, fancier, look normal, and a special button that does something at the end of a sentence. 
